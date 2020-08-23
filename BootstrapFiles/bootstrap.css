@@ -10045,8 +10045,9 @@ a.text-dark:hover, a.text-dark:focus {
   transform: rotate(90deg);
 }
 
+
 .jumbotron {
-  background-color: lightpink;
+  background-color: #0d505d;
   color: black;
 }
 
@@ -10055,7 +10056,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .container{
-  background-color: lightpink;
+  background-color: #0d505d;
 }
 
 .row {
@@ -10086,4 +10087,8 @@ a.text-dark:hover, a.text-dark:focus {
 
 .input[type="text"] {
   width: 500px;
+}
+
+.backgroundcolor {
+  color: #0d505d;
 }

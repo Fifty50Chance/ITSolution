@@ -1,0 +1,43 @@
+
+.jumbotron {
+  background-color: lightpink;
+  color: black;
+}
+
+.jumbotron h3 {
+  color: black;
+}
+
+.container{
+  background-color: lightpink;
+}
+
+.row {
+  padding: 15px;
+}
+
+.column {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jumbotron p {
+  color: black;
+}
+
+.div vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.centerbutton {
+  display: flex;
+  justify-content: center;
+}
+
+.input[type="text"] {
+  width: 500px;
+}
